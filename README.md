@@ -111,7 +111,15 @@ Thank You And Enjoy Your Hackintosh EFI, I Hope Everything Goes Well! ❤️
 4. Now you can boot macOS without your USB device. ✅️
 
 </details>
+<summary><strong>Copy EFI to the internal drive</strong></summary>
+  <br>
 
+1. Open terminal. Type `sudo diskutil mountdisk disk0s1` (disk0s1 corresponds to the EFI partition of the internal disk)
+2. Open Finder and copy the entire EFI folder from your USB to the root disk's EFI partition.
+3. Unplug the USB device and reboot your laptop, while rebooting hold down `F10 Or F11` to access the boot menu.
+4. Boot from `Kingstone-579420` (or your ssd's name).
+5. To check that everything has gone well repeat `step 3` and look for a new entry called `OpenCore`
+4. Now you can boot macOS without your USB device. ✅️
 ## 🛠 SMBIOS
 <details>
 <summary><strong>Make A Serial Number To Get Icloud Running</strong></summary>
