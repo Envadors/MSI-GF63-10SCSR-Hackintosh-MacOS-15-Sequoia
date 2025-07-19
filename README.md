@@ -152,7 +152,7 @@ Thank You And Enjoy Your Hackintosh EFI, I Hope Everything Goes Well! ❤️
 ## 🛠 Enable Trackpad Click
 
 <details>
-<summary><strong>Make A Serial Number To Get iCloud Running</strong></summary>
+<summary><strong>Customize Via Settings</strong></summary>
 <br>
 
 1. Go Into Settings, Then Into Trackpad.
