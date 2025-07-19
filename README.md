@@ -138,7 +138,6 @@ Thank You And Enjoy Your Hackintosh EFI, I Hope Everything Goes Well! ❤️
 <summary>Heliport Method</strong></summary>
   <br>
   
-- [Arc](https://arc.net) * The Best Browser
-- [OC Updater](https://github.com/mswgen/oc-updater/releases/tag/1.4.3) * A Opencore Updater That Can Update Your EFI With Just One Click If New Updates Are Found.
+- [Heliport]([(https://github.com/OpenIntelWireless/HeliPort/releases/tag/v1.5.0]) * The Best Browser
   
   </details>
