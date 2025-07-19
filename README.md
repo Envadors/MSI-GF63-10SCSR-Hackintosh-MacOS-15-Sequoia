@@ -15,6 +15,7 @@ This Repository Has A EFI That Uses Opencore 1.2 And Is For MacOS Sequoia
 
 ------------------------------------------------------------------------------------------------------
 
+- [EFI For macOS Sequoia](https://mega.nz/file/GugEgKIB#5-PMXh4OGy75J0TyXq-9s69kDM5lMJs8uryR_nJFRJc)
 - [EFI For macOS Sonoma](https://mega.nz/file/GugEgKIB#5-PMXh4OGy75J0TyXq-9s69kDM5lMJs8uryR_nJFRJc)
 - [EFI Link For macOS Ventura Until Big Sur](https://github.com/Forte500/Hackintosh-msi-GF65-10UE)
 
@@ -26,29 +27,30 @@ This Repository Has A EFI That Uses Opencore 1.2 And Is For MacOS Sequoia
 - iGPU acceleration Intel UHD 630 2048 MB
 - Sleep
 - Power management
-- Audio (speaker, microfone, headphone jack)
+- Audio (speaker, microphone, headphone jack)
 - Battery percentage
 - USB ports
 - Display Brightness
-- Wifi & Bluetooth
+- Wifi
 - iMessage
 - Dual Boot with windows 10 & 11
 - Keyboard
-- Brightness & volume FN keys
+- volume FN keys
 - Trackpad
 - Internal camera
 - Ethernet port
 - Continuity: Handoff & Universal clipboard
 - AirPlay: `iPad -> Mac` & `Mac -> TV`
 - Sidecar wired
-- *Sidecar wireless with broadcom card only
+- Sidecar wireless with broadcom card only
 
 ### ❌️ What doesn't work
+- Bluetooth
+- FN Brightness Keys
 - Video output over USB-C
 - Apple Watch Unlock, Universal Control, Instant Hotspot with broadcom card
 - HDMI Since The Port Is Wired To NVIDIA.
 - NVIDIA Graphics Card As MacOS Never Nativity Supported It.
-- Backlight But Who Ever Uses It Am I Right?!
 
 ### ⚠️ Known issues
 - Wireless sidecar may lag (tested with BCM94360NG & iPad 6 ios 15.1)
@@ -69,7 +71,7 @@ generate a simbios for it which I listed the steps in  the bottom⚠️
 | Touchpad	        | VoodooPS2                                                              |
 
 ❤️ Credits To My Guy On Reddit Named Forte500 For Providing Me With The EFI That Works For Ventura And Monetery And BigSur.
-Credits To Me On Updating The EFI To Opencore 1.0 And Making It Support Sonoma, I Have Eliminated As Much Bugs As Possible.
+Credits To Me On Updating The EFI To Opencore 1.2 And Making It Support Sequoia, I Have Eliminated As Much Bugs As Possible.
 Thank You And Enjoy Your Hackintosh EFI, I Hope Everything Goes Well! ❤️
 
 
