@@ -119,9 +119,17 @@ Thank You And Enjoy Your Hackintosh EFI, I Hope Everything Goes Well! ❤️
 <summary><strong>Make A Serial Number To Get iCloud Running</strong></summary>
 <br>
 
-1. Download Helip Port from the link at the bottom.  
-2. Open.  
-3. Done. ✅  
+1. Prepare your config.plist which you've made.
+2. Download or clone the whole repo of [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS).
+3. Open the folder and open GenSMBIOS.bat \(on Windows\) or right-click open GenSMBIOS.command \(on macOS\)
+4. Enter 1 and enter. \(for update/install MacSerial\)
+5. Then enter 2 and enter.
+6. Drag and drop your config.plist and press enter.
+7. Y.
+8. Enter 3 and enter.
+9. Enter the SMBIOS you want to generate and enter the number of SMBIOS amount. Press enter. **For AMD System,** here is the list of SMBIOS recommended from the most to the least: - _**iMacPro1,1**_ \(most recommended\) - _**iMac14,2**_ ****\(also recommended\) - MacPro6,1 \(a little bit old but it works\) - MacPro5,1 \(outdated and already lost support on Catalina\) - Other SMBIOS \(not recommended as they might cause problems\)
+10. The first SMBIOS will be flushed into your chosen config.plist.
+11. Icloud Services Should Work Now And Enjoy Your Hackintosh 👍.
 
 </details>
 
