@@ -51,6 +51,7 @@ This Repository Has A EFI That Uses Opencore 1.2 And Is For MacOS Sequoia
 - Apple Watch Unlock, Universal Control, Instant Hotspot with broadcom card
 - HDMI Since The Port Is Wired To NVIDIA.
 - NVIDIA Graphics Card As MacOS Never Nativity Supported It.
+- Screen Dark On Login Screen For 5 Minutes
 
 ### ⚠️ Known issues
 - Wireless sidecar may lag (tested with BCM94360NG & iPad 6 ios 15.1)
@@ -139,5 +140,7 @@ Thank You And Enjoy Your Hackintosh EFI, I Hope Everything Goes Well! ❤️
   <br>
   
 1. Download The Heliport DMG File From [Here](https://github.com/OpenIntelWireless/HeliPort/releases/tag/v1.5.0)
+2. Open The DMG, Then Press Agree
+3. Move The Heliport App In The Installer To The Application Folder
   
   </details>
