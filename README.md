@@ -134,7 +134,7 @@ Thank You And Enjoy Your Hackintosh EFI, I Hope Everything Goes Well! ❤️
 
 </details>
 
-## Get WIFI To Work, 
+## 🛠 Enable WI-FI
 <details>
 <summary>Heliport Method</strong></summary>
   <br>
@@ -142,5 +142,20 @@ Thank You And Enjoy Your Hackintosh EFI, I Hope Everything Goes Well! ❤️
 1. Download The Heliport DMG File From [Here](https://github.com/OpenIntelWireless/HeliPort/releases/tag/v1.5.0)
 2. Open The DMG, Then Press Agree
 3. Move The Heliport App In The Installer To The Application Folder
+4. Open Settings, Go Into General, Login Items And Extensions
+5. Press The Plus Button
+6. Select The Heliport App
+7. Reboot, there will be 2 wifis in your bar, one of them will work
   
-  </details>
+</details>
+
+## 🛠 Enable Trackpad Click
+
+<details>
+<summary><strong>Make A Serial Number To Get iCloud Running</strong></summary>
+<br>
+
+1. Go Into Settings, Then Into Trackpad.
+2. Disable Force Click And Haptic Feedback
+3. You can now lightly tap the trackpad to press. Hard pressing Wont Work.
+   </details>
