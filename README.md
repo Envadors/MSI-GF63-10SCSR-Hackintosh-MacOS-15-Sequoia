@@ -122,6 +122,8 @@ Thank You And Enjoy Your Hackintosh EFI, I Hope Everything Goes Well! ❤️
 4. Now you can boot macOS without your USB device. ✅️
 ## 🛠 SMBIOS
 <details>
+
+   
 <summary><strong>Make A Serial Number To Get Icloud Running</strong></summary>
   <br>
   
