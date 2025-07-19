@@ -138,6 +138,6 @@ Thank You And Enjoy Your Hackintosh EFI, I Hope Everything Goes Well! ❤️
 <summary>Heliport Method</strong></summary>
   <br>
   
-- [Heliport]([(https://github.com/OpenIntelWireless/HeliPort/releases/tag/v1.5.0]) * The Best Browser
+- [Heliport](https://github.com/OpenIntelWireless/HeliPort/releases/tag/v1.5.0) * The Best Browser
   
   </details>
