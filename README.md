@@ -125,9 +125,9 @@ Thank You And Enjoy Your Hackintosh EFI, I Hope Everything Goes Well! ❤️
 
 </details>
 
-## 🎁 Extras, (Optional)
+## Get WIFI To Work, 
 <details>
-<summary>Userful Apps</strong></summary>
+<summary>Heliport Method</strong></summary>
   <br>
   
 - [Arc](https://arc.net) * The Best Browser
