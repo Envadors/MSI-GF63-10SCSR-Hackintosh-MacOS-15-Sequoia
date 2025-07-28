@@ -134,16 +134,18 @@ generate a simbios for it which I listed the steps in  the bottom ⚠️
 
 ## 🛠 Enable WI-FI
 <details>
-<summary>Heliport Method</strong></summary>
+<summary>OCLP Method (The Only Method For This EFI)</strong></summary>
   <br>
   
-1. Download The Heliport DMG File From [Here](https://github.com/OpenIntelWireless/HeliPort/releases/tag/v1.5.0)
-2. Open The DMG, Then Press Agree
-3. Move The Heliport App In The Installer To The Application Folder
-4. Open Settings, Go Into General, Login Items And Extensions
-5. Press The Plus Button
-6. Select The Heliport App
-7. Reboot, there will be 2 wifis in your bar, one of them will work
+1. Download OpenCore Legacy Patcher from [here]([https://github.com/corpnewt/GenSMBIOS](https://github.com/dortania/Opencore-Legacy-Patcher/releases/2.4.0)).
+2. Open the .dmg, press I Agree, and let it install.
+3. Open Finder > Applications and launch OpenCore Legacy Patcher.
+4. Click Post-Install Root Patch, and you should see Modern Wireless in the list.
+5. Press Start Root Patching, then enter your password if asked.
+6. Once it's done, reboot your system.
+7. Wi-Fi should now be working natively ✅.
+
+
   
 </details>
 
