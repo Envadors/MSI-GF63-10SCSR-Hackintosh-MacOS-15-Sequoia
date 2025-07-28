@@ -137,7 +137,7 @@ generate a simbios for it which I listed the steps in  the bottom ⚠️
 <summary>OCLP Method (The Only Method For This EFI)</strong></summary>
   <br>
   
-1. Download Open Core Legacy Patcher from [here](https://github.com/corpnewt/GenSMBIOS).
+1. Download Open Core Legacy Patcher from [here](https://github.com/dortania/Opencore-Legacy-Patcher/releases/2.4.0).
 2. Open the .dmg, press I Agree, and let it install.
 3. Open Finder > Applications and launch OpenCore Legacy Patcher.
 4. Click Post-Install Root Patch, and you should see Modern Wireless in the list.
