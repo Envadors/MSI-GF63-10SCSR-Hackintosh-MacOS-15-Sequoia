@@ -16,10 +16,8 @@ This Repository Has A EFI That Uses Opencore 1.5 And Is For MacOS Sequoia
 
 ------------------------------------------------------------------------------------------------------
 
-- [EFI For macOS Sequoia](https://mega.nz/file/qyYFzQgZ#jt1jlzu5tYLbBmASSK5_78fykgajI1BDZV8K30W0hwE)
 - [EFI For macOS Sonoma](https://github.com/Envadors/Msi-Gf63-10scsr-Sonoma-Hackintosh-EFI)
 - [EFI Link For macOS Ventura Until Big Sur](https://github.com/Forte500/Hackintosh-msi-GF65-10UE)
-
 
 ------------------------------------------------------------------------------------------------------
 
