@@ -1,5 +1,5 @@
 # MSI-GF63-10SCSR-Hackintosh-MacOS-15-Sequoia-OpenCore
-This Repository Has A EFI That Uses Opencore 1.2 And Is For MacOS Sequoia
+This Repository Has A EFI That Uses Opencore 1.5 And Is For MacOS Sequoia
 
 ![OpenCore](https://img.shields.io/badge/OpenCore-1.2-Blue.svg)
 ![macOSver](https://img.shields.io/badge/macOS-15-Orange.svg)
@@ -43,21 +43,19 @@ This Repository Has A EFI That Uses Opencore 1.2 And Is For MacOS Sequoia
 - AirPlay: `iPad -> Mac` & `Mac -> TV`
 - Sidecar wired
 - Sidecar wireless with broadcom card only
-
-### ❌️ What doesn't work
+- Brightness
 - Bluetooth
-- FN Brightness Keys
-- Video output over USB-C
+### ❌️ What doesn't work
+- Video output over USB-C (Has Not Been Tested)
 - Apple Watch Unlock, Universal Control, Instant Hotspot with broadcom card
 - HDMI Since The Port Is Wired To NVIDIA.
 - NVIDIA Graphics Card As MacOS Never Nativity Supported It.
-- Screen Dark On Login Screen For 5 Minutes
 
 ### ⚠️ Known issues
 - Wireless sidecar may lag (tested with BCM94360NG & iPad 6 ios 15.1)
 
 ⚠️ You do not need to modify the EFI to get it to run! However if you also want to get icloud running you will need to
-generate a simbios for it which I listed the steps in  the bottom⚠️
+generate a simbios for it which I listed the steps in  the bottom ⚠️
 
 ### 💻 My Hardware
 | Component       |  Brand/info                                                             |
