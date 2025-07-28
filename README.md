@@ -2,7 +2,7 @@
 This Repository Has A EFI That Uses Opencore 1.5 And Is For MacOS Sequoia
 
 ![OpenCore](https://img.shields.io/badge/OpenCore-1.2-Blue.svg)
-![macOSver](https://img.shields.io/badge/macOS-15-Orange.svg)
+![macOSver](https://img.shields.io/badge/macOS-15-Green.svg)
 
 ![51Rf3zw4rIL _AC_SL1000___1_-removebg-preview](https://github.com/Envadors/Msi-Gf63-10scsr-Sonoma-Hackintosh-EFI/assets/91122426/c464e44d-02e7-4c8d-baf0-890be9126e7c)
 
@@ -137,7 +137,7 @@ generate a simbios for it which I listed the steps in  the bottom ⚠️
 <summary>OCLP Method (The Only Method For This EFI)</strong></summary>
   <br>
   
-1. Download OpenCore Legacy Patcher from  [here]([https://github.com/corpnewt/GenSMBIOS](https://github.com/dortania/Opencore-Legacy-Patcher/releases/2.4.0)).
+1. Download Open Core Legacy Patcher from [here](https://github.com/corpnewt/GenSMBIOS).
 2. Open the .dmg, press I Agree, and let it install.
 3. Open Finder > Applications and launch OpenCore Legacy Patcher.
 4. Click Post-Install Root Patch, and you should see Modern Wireless in the list.
