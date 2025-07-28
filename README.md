@@ -69,9 +69,7 @@ generate a simbios for it which I listed the steps in  the bottom ⚠️
 | Laptop Keyboard	 | VoodooPS2                                                              |
 | Touchpad	        | VoodooPS2                                                              |
 
-❤️ Credits To My Guy On Reddit Named Forte500 For Providing Me With The EFI That Works For Ventura And Monetery And BigSur.
-Credits To Me On Updating The EFI To Opencore 1.2 And Making It Support Sequoia, I Have Eliminated As Much Bugs As Possible.
-Thank You And Enjoy Your Hackintosh EFI, I Hope Everything Goes Well! ❤️
+❤️ Credits to Forte500 on Reddit for providing the original EFI configuration compatible with both Ventura and Monterey, which I then modified and optimized for Sonoma. The Sequoia EFI, however, was developed entirely by me from the ground up, with no external sources or pre-existing configurations used. ❤️
 
 
 
