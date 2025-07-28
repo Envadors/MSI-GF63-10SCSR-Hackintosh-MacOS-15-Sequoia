@@ -1,8 +1,9 @@
 # MSI-GF63-10SCSR-Hackintosh-MacOS-15-Sequoia-OpenCore
 This Repository Has A EFI That Uses Opencore 1.5 And Is For MacOS Sequoia
 
-![OpenCore](https://img.shields.io/badge/OpenCore-1.2-Blue.svg)
-![macOSver](https://img.shields.io/badge/macOS-15-Green.svg)
+[![OpenCore](https://img.shields.io/badge/OpenCore-1.5-blue.svg)](https://github.com/acidanthera/OpenCorePkg)
+[![MacOS Version](https://img.shields.io/badge/macOS-Sequoia-red.svg)]([https://github.com/acidanthera/OpenCorePkg](https://github.com/Envadors/MSI-GF63-10SCSR-Hackintosh-MacOS-15-Sequoia))
+
 
 ![51Rf3zw4rIL _AC_SL1000___1_-removebg-preview](https://github.com/Envadors/Msi-Gf63-10scsr-Sonoma-Hackintosh-EFI/assets/91122426/c464e44d-02e7-4c8d-baf0-890be9126e7c)
 
