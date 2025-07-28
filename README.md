@@ -77,6 +77,8 @@ generate a simbios for it which I listed the steps in  the bottom ⚠️
 <details>
 <summary><strong>UEFI Custom Hackintosh Settingse</strong></summary>
    <br>
+   
+**Update Your BIOS To Version E16R4IMS.10B Which Was Released On 2021-01-20**
   
 **Firstly Unlock hidden BIOS Settings by pressing `right shift + right Ctrl + left alt + F2`**
 
