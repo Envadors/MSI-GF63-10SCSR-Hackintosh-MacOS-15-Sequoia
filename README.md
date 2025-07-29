@@ -4,7 +4,7 @@ This Repository Has A EFI That Uses Opencore 1.5 And Is For MacOS Sequoia
 [![OpenCore](https://img.shields.io/badge/OpenCore-1.5-blue.svg)](https://github.com/acidanthera/OpenCorePkg)
 [![MacOS Version](https://img.shields.io/badge/macOS-Sequoia-red.svg)]([https://github.com/acidanthera/OpenCorePkg](https://github.com/Envadors/MSI-GF63-10SCSR-Hackintosh-MacOS-15-Sequoia))
 
-<img width="500" height="500" alt="Untitled" src="https://github.com/user-attachments/assets/7fe1614b-cc50-4e85-9db1-2c992db72c0f" />
+<img width="750 height="750" alt="Untitled" src="https://github.com/user-attachments/assets/7fe1614b-cc50-4e85-9db1-2c992db72c0f" />
 
 
 ----------------------------------------------------------------------------------------------------
