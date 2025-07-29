@@ -53,8 +53,6 @@ This Repository Has A EFI That Uses Opencore 1.5 And Is For MacOS Sequoia
 ### ⚠️ Known issues
 - Wireless sidecar may lag (tested with BCM94360NG & iPad 6 ios 15.1)
 
-⚠️ You do not need to modify the EFI to get it to run! However if you also want to get icloud running you will need to
-generate a simbios for it which I listed the steps in  the bottom ⚠️
 
 ### 💻 My Hardware
 | Component       |  Brand/info                                                             |
